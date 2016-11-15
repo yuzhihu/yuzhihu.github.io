@@ -7,6 +7,7 @@ categories:
 description: Ideas are my own  
 image: assets/image/ernu_id.jpg
 image-sm: assets/image/ernu_id.jpg
+comments: true
 ---
 A post about what kind of skills you can get, not matter whether you are enjoying or struggling, on your PhD journey.
 
