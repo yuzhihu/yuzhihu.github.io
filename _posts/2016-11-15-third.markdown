@@ -3,7 +3,7 @@ layout: post
 title: Little thoughts  
 date: 2016-11-15 19:57:49 +11
 categories:
-  -ls -h Yuzhi
+  -life
 description: Third post
 image: assets/image/ernu_3.jpg
 image-sm: assets/image/ernu_3.jpg

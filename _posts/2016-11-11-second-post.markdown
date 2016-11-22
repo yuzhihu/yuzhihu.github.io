@@ -3,7 +3,7 @@ layout: post
 title: Skill sets you can get after completing your PhD 
 date: 2016-11-11 11:28:27 +11
 categories:
-  -ls-h PhD cd Yuzhi
+  - PhD
 description: Ideas are my own  
 image: assets/image/ernu_id.jpg
 image-sm: assets/image/ernu_id.jpg
