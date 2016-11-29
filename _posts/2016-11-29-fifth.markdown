@@ -3,7 +3,7 @@ layout: post
 title: How to communicate your Science better to the general public
 date: 2016-11-29 21:38:42 +11
 categories:
-  PhD
+- PhD
 description: Fifth post
 image: assets/image/Dasha_1.jpg
 image-sm: assets/image/Dasha_1.jpg
