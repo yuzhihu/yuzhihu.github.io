@@ -5,8 +5,8 @@ date: 2016-12-13 10:48:42 +11
 categories:
   - PhD
 description: Sixth post
-image: assets/image/House_id.jpg
-image-sm: assets/image/House_id.jpg
+image: assets/image/House_ID.jpg
+image-sm: assets/image/House_ID.jpg
 comments: true
 ---
 
