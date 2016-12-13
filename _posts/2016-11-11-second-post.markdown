@@ -9,7 +9,7 @@ image: assets/image/ernu_id.jpg
 image-sm: assets/image/ernu_id.jpg
 comments: true
 ---
-A post about what kind of skills you can get, not matter whether you are enjoying or struggling, on your PhD journey.
+A post about what kind of skills you can get, no matter whether you are enjoying or struggling, on your PhD journey.
 
 Normally, employers from the non-academic background (industrial and government organizations), they will not have a clue about what does a PhD mean and different sort of skills that you get after completing the degree. 
 
